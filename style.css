@@ -1,0 +1,41 @@
+.bir{
+    width: 1000px;
+    height: 590px;
+    background-color: black;
+    margin: auto;
+    padding-top: 50px;
+    border: double red;
+
+}
+.ikki{
+    width: 896px;
+    height: 269px;
+    background-color: #2A5D5A;
+    top: 199px;
+    left: 220px;
+    margin: auto;
+    margin-bottom: 20px;
+    font-size: 20px;
+    color: white;
+    
+}
+.ota{
+    background-color: #2A5D5A;
+    padding-top: 22px;
+    
+}
+.text{
+    margin: auto;
+    width: 636px;
+    height: 90px;
+    text-align: center;
+    background-color: #311313;
+    margin-bottom: 61px;
+    margin-top: 22px;
+    color: white;
+}
+.uch{
+    font-size: 64px;
+    font-weight: 700px;
+}
+
